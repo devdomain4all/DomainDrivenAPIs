@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "c5pAYfo1aFHCKax2PJaAh7sQK+im0aqOLAUOiZ4hhTlRiokrCwYLs7v0fYvr0VkL07VPRDKRDEFiX6JHVI7MuA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\saura\\source\\repos\\ContractManagementSystem\\ContratMaanagementModels\\ContratManagementModels.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\saura\\.nuget\\packages\\mongodb.bson\\2.23.0\\mongodb.bson.2.23.0.nupkg.sha512",
+    "C:\\Users\\saura\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\saura\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\saura\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\saura\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\saura\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\saura\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
